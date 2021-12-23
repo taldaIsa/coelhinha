@@ -16,7 +16,7 @@
   
 //carregando animaçoes 
 function preload(){
-  imagemtrex =  loadAnimation("coelinha.png","coelinha2.png");
+  imagemtrex =  loadAnimation("coelinha.png","coelinha2.png","coelinha.png");
   imagemsolo = loadImage("ground2.png");
   imagemNuvens = loadImage("cloud.png");
   imagemBorboleta = loadImage("borboleta.png");
